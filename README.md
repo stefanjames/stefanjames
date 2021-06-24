@@ -1,6 +1,6 @@
 ## Hello! I'm Stefan James👋🏼
 
-I'm Stefan James, a Cloud DevOps Engineer. I have deep expertise managing large-scale servers, managing infrastructures in AWS, and DevOps practices. I have grown a new passion for software engineering and navigating through the programming world. I'm working on getting myself familiar with HTML, CSS, JavaScript, React, Node.js, Bootstrap, and Git.
+I'm Stefan James, a DevSecOps Engineer. I have deep expertise managing large-scale servers, managing infrastructures in AWS, security, and DevOps practices. I have grown a new passion for software engineering and navigating through the programming world. I'm working on getting myself familiar with HTML, CSS, JavaScript, React, Node.js, Bootstrap, and Git.
 
 ![AWS Certified Solutions Architect - Associate (AWS00575226](https://github.com/stefanjames/stefanjames/blob/main/aws-solarchitect-associate-2020.png "AWS Certified Solutions Architect - Associate (AWS00575226")![AWS Certified Developer - Associate (AWS00575226](https://github.com/stefanjames/stefanjames/blob/main/aws-developer-associate-2020.png "AWS Certified Developer - Associate (AWS00575226")
 
