@@ -1,6 +1,6 @@
 ## Hello! I'm Stefan James👋🏼
 
-I'm a DevSecOps Engineer with a deep expertise managing large-scale servers, managing infrastructures in all environments (dev, stage, prod), vulnerability management, remediation, and DevSecOps practices. I have a passion for learning new tools and technologies that solve real world problems. I have done work for a number of federal government and private sectors.
+I'm a Cyber Security Engineer (DevSecOps) with a deep expertise managing large-scale servers, managing infrastructures in all environments (dev, stage, prod), vulnerability management, remediation, and DevSecOps practices. I have a passion for learning new tools and technologies that solve real world problems. I have done work for a number of federal government and private sectors.
 
 ![AWS Certified Solutions Architect - Associate (AWS00575226](https://github.com/stefanjames/stefanjames/blob/main/aws-solarchitect-associate-2020.png "AWS Certified Solutions Architect - Associate (AWS00575226")![AWS Certified Developer - Associate (AWS00575226](https://github.com/stefanjames/stefanjames/blob/main/aws-developer-associate-2020.png "AWS Certified Developer - Associate (AWS00575226")![CompTIA Security+ ce - (COMP001020766148](https://github.com/stefanjames/stefanjames/blob/main/security-plus-certified.png "CompTIA Security+ ce - (COMP001020766148)")![CompTIA CASP+ ce - (COMP001020766148](https://github.com/stefanjames/stefanjames/blob/main/casp-ce-certified.png "CompTIA CASP+ ce - (COMP001020766148)")
 
