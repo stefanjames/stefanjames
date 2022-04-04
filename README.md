@@ -12,5 +12,5 @@ I'm a Cyber Security Engineer (DevSecOps) with a deep expertise managing large-s
 
 ### Get in touch
 
-- By email [stefan@sjcloudsolutions.com](mailto:stefan@sjcloudsolutions.com)
+- By email [stefan@stefanjames.io](mailto:stefan@stefanjames.io)
 - On [LinkedIn](https://www.linkedin.com/in/stefan-james/)
