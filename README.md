@@ -12,6 +12,9 @@ Results-driven Information Security professional with 15 years of expertise in R
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>SonarQube Integration with Jenkins CICD Pipeline</b>
+  - [SonarQube Integration with Jenkins CICD Pipeline](https://github.com/stefanjames/SonarQube-Integration)
+
 - <b>Sonar Scanner Setup (Windows)</b>
   - [Sonar Scanner Setup Manual Ad-Hoc Scans (Windows)](https://github.com/stefanjames/SonarScanner)
 
