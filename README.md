@@ -13,16 +13,16 @@ Results-driven Information Security professional with 15 years of expertise in R
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Conducting Nessus Vulnerability Scan Results Analysis</b>
-  - [Conducting Nessus Vulnerability Scan Results Analysis](https://github.com/stefanjames/SonarQube-Integration)
+  - [Conducting Nessus Vulnerability Scan Results Analysis](https://github.com/stefanjames/vulnerability-scan-results-analysis)
 
 - <b>Security Control Testing (AC-11) Using FedRAMP Template (Determine-if Levels)</b>
-  - [Security Control Testing (AC-11) Using FedRAMP Template (Determine-if Levels)](https://github.com/stefanjames/SonarQube-Integration)
+  - [Security Control Testing (AC-11) Using FedRAMP Template (Determine-if Levels)](https://github.com/stefanjames/security-control-testing)
  
 - <b>Conducting NIST 800-53 Rev4 to Rev5 Control GAP Analysis</b>
-  - [Conducting NIST 800-53 Rev4 to Rev5 Control GAP Analysis](https://github.com/stefanjames/SonarQube-Integration)
+  - [Conducting NIST 800-53 Rev4 to Rev5 Control GAP Analysis](https://github.com/stefanjames/security-control-gap-analysis)
 
 - <b>SonarQube Integration with Jenkins CICD Pipeline</b>
-  - [SonarQube Integration with Jenkins CICD Pipeline](https://github.com/stefanjames/SonarQube-Integration)
+  - [SonarQube Integration with Jenkins CICD Pipeline](https://github.com/stefanjames/sonarqube-integration)
 
 <h2> 🤳 Connect with me:</h2>
 
