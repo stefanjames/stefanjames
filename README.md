@@ -9,6 +9,7 @@ Results-driven Information Security professional with 15 years of expertise in R
 - [ CompTIA Security+ ce - (COMP001020766148)](https://www.credly.com/earner/earned/badge/81797799-3e3c-480d-b0c6-8bcc0fef0b34)
 - [ AWS Certified Solutions Architect - Associate (AWS00575226)](https://www.youracclaim.com/earner/earned/badge/e8859516-4785-45ea-8e30-de2a789ed351)
 - [ AWS Certified Developer - Associate (AWS00575226)](https://www.youracclaim.com/earner/earned/badge/cd669bc3-4f92-44bd-9d57-0fed17e80d43)
+- [ Microsoft Certified: Azure Security Engineer Associate (669A8A-A7N6F4)](https://learn.microsoft.com/api/credentials/share/en-us/StefanJames-1950/542BAC940A105A04?sharingId=C9A42C554B9954F6)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
