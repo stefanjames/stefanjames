@@ -20,7 +20,7 @@ Results-driven Information Security professional with 15 years of expertise in R
   - [Security Control Testing (AC-11) Using FedRAMP Template (Determine-if Levels)](https://github.com/stefanjames/security-control-testing)
  
 - <b>Security Control Assessment Process</b>
-  - [Security Control Assessment Process](https://github.com/stefanjames/security-control-gap-analysis)
+  - [Security Control Assessment Process](https://github.com/stefanjames/sca-process)
  
 - <b>Conducting NIST 800-53 Rev4 to Rev5 Control GAP Analysis</b>
   - [Conducting NIST 800-53 Rev4 to Rev5 Control GAP Analysis](https://github.com/stefanjames/security-control-gap-analysis)
