@@ -19,14 +19,11 @@ Results-driven Information Security professional with 15 years of expertise in R
 - <b>Security Control Testing (AC-11) Using FedRAMP Template (Determine-if Levels)</b>
   - [Security Control Testing (AC-11) Using FedRAMP Template (Determine-if Levels)](https://github.com/stefanjames/security-control-testing)
  
-- <b>Security Control Assessment Process</b>
-  - [Security Control Assessment Process](https://github.com/stefanjames/sca-process)
+- <b>SonarQube Integration with Jenkins CICD Pipeline</b>
+  - [SonarQube Integration with Jenkins CICD Pipeline](https://github.com/stefanjames/sonarqube-integration)
  
 - <b>Conducting NIST 800-53 Rev4 to Rev5 Control GAP Analysis</b>
   - [Conducting NIST 800-53 Rev4 to Rev5 Control GAP Analysis](https://github.com/stefanjames/security-control-gap-analysis)
-
-- <b>SonarQube Integration with Jenkins CICD Pipeline</b>
-  - [SonarQube Integration with Jenkins CICD Pipeline](https://github.com/stefanjames/sonarqube-integration)
 
 
 <h2> 🤳 Connect with me:</h2>
