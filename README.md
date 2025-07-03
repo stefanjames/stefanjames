@@ -14,6 +14,9 @@ Results-driven Information Security professional with over 16 years of distingui
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>AWS Lambda GRC Automation – NIST AC-2(3) Compliance</b>
+  - [AWS Lambda GRC Automation – NIST AC-2(3) Compliance](https://github.com/stefanjames/aws-lambda-inactive-iam-users)
+
 - <b>Conducting Nessus Vulnerability Scan Results Analysis</b>
   - [Conducting Nessus Vulnerability Scan Results Analysis](https://github.com/stefanjames/vulnerability-scan-results-analysis)
 
@@ -22,9 +25,6 @@ Results-driven Information Security professional with over 16 years of distingui
  
 - <b>SonarQube Integration with Jenkins CICD Pipeline</b>
   - [SonarQube Integration with Jenkins CICD Pipeline](https://github.com/stefanjames/sonarqube-integration)
- 
-- <b>Conducting NIST 800-53 Rev4 to Rev5 Control GAP Analysis</b>
-  - [Conducting NIST 800-53 Rev4 to Rev5 Control GAP Analysis](https://github.com/stefanjames/security-control-gap-analysis)
 
 
 <h2> 🤳 Connect with me:</h2>
