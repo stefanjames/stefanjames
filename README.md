@@ -43,6 +43,9 @@ Results-driven Information Security professional with 16 years of experience in 
 - **[Pharmaceutical Supply Chain dApp](https://github.com/stefanjames/secure-pharma-tracker)**  
   A blockchain app to trace pharmaceuticals across the supply chain, ensuring transparency and preventing counterfeits.
 
+- **[Decentralized Insurance dApp](https://github.com/stefanjames/decentralized-insurance-dapp)** (In progress)
+  A smart contract-powered insurance claims platform using Solidity, React, and blockchain automation.
+
 ---
 
 ## ⚙️ Tech Stack
