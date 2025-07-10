@@ -38,10 +38,10 @@ Results-driven Information Security professional with 16 years of experience in 
 
 ---
 
-## ⛓️ Blockchain Projects (In Progress)
+## ⛓️ Blockchain Projects
 
-- **Decentralized Insurance dApp** — Solidity-based POC to showcase smart contract-based risk pools  
-- **Pharmaceutical Supply Chain dApp** — A blockchain app to trace pharmaceuticals across the supply chain, ensuring transparency and preventing counterfeits.
+- **[Pharmaceutical Supply Chain dApp](https://github.com/stefanjames/secure-pharma-tracker)**  
+  A blockchain app to trace pharmaceuticals across the supply chain, ensuring transparency and preventing counterfeits.
 
 ---
 
