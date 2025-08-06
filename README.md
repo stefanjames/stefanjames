@@ -40,11 +40,14 @@ Results-driven Information Security professional with 16 years of experience in 
 
 ## ⛓️ Blockchain Projects
 
-- **[Pharmaceutical Supply Chain dApp](https://github.com/stefanjames/secure-pharma-tracker)**  
-  A blockchain app to trace pharmaceuticals across the supply chain, ensuring transparency and preventing counterfeits.
+- **[Security Audit Portfolio](https://github.com/stefanjames/security-audit-portfolio)**  
+  A curated collection of smart contract audit reports, vulnerability findings, and mitigation strategies. This repo showcases hands-on security analysis across various Web3 projects, including manual reviews, PoCs, and remediation best practices.
 
-- **[Decentralized Insurance dApp](https://github.com/stefanjames/decentralized-insurance-dapp)** (In progress)
-  A smart contract-powered insurance claims platform using Solidity, React, and blockchain automation.
+- **[Pharmaceutical Supply Chain dApp](https://github.com/stefanjames/secure-pharma-tracker)**  
+  A full-stack blockchain application that tracks pharmaceutical batches across the supply chain to ensure transparency, product authenticity, and regulatory compliance. Built with Solidity, React, and PostgreSQL.
+
+- **[Decentralized Insurance dApp](https://github.com/stefanjames/decentralized-insurance-dapp)** *(In Progress)*  
+  A decentralized insurance platform that automates policy issuance and claims using smart contracts. Focused on fraud prevention and trustless payouts using Solidity and Web3 technologies.
 
 ---
 
