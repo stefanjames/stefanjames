@@ -28,16 +28,16 @@ Results-driven Information Security professional with 16 years of experience in 
   **[Cloud Security Assessment Checklist & Report](https://github.com/stefanjames/aws-cloud-security-assessment)**
 
 - Automates the detection and deactivation of inactive IAM users based on NIST guidance.  
-  **[AWS Lambda GRC Automation – NIST AC-2(3) Compliance](https://github.com/stefanjames/aws-lambda-ac2-compliance)**
+  **[AWS Lambda GRC Automation – NIST AC-2(3) Compliance](https://github.com/stefanjames/aws-lambda-inactive-iam-users)**
 
 - Automates the review and classification of high/critical vulnerabilities from Tenable scans.  
-  **[Nessus Vulnerability Scan Analysis](https://github.com/stefanjames/nessus-scan-analysis)**
+  **[Nessus Vulnerability Scan Analysis](https://github.com/stefanjames/vulnerability-scan-results-analysis)**
 
 - Demonstrates Determine-If style assessments using real-world artifacts.  
-  **[FedRAMP Security Control Testing (AC-11)](https://github.com/stefanjames/fedramp-ac11-testing)**
+  **[FedRAMP Security Control Testing (AC-11)](https://github.com/stefanjames/security-control-testing)**
 
 - Secures DevOps pipelines by integrating static code analysis into builds.  
-  **[SonarQube Integration in Jenkins CICD](https://github.com/stefanjames/jenkins-sonarqube-integration)**
+  **[SonarQube Integration in Jenkins CICD](https://github.com/stefanjames/sonarqube-integration)**
 
 
 ---
