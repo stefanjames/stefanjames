@@ -12,16 +12,6 @@ A growing part of my work involves AI platform security: data exfiltration vecto
  
 Blockchain and Web3 security is where I invest time outside client work. Smart contract analysis, threat modeling, and trust assumption evaluation. Building Web3-specific depth to complement my existing background.
 
-CORE SKILLS:
-
-• Cloud Security: AWS Security Hub, GuardDuty, NIST 800-53, FedRAMP, IRS 1075, FISMA, DoD 8570, CMMC
-• Vulnerability Management: Tenable, Qualys, Nessus, AWS Inspector, Prisma Cloud, DISA STIGs, CISA KEV, CVSS
-• DevSecOps: Jenkins, GitHub Actions, SonarQube, OWASP ZAP, Snyk, SAST/DAST
-• Blockchain & Web3 Security: Solidity, Hardhat, Foundry, Slither, Mythril, Smart Contract Analysis
-• Monitoring & Threat Detection: Splunk, CrowdStrike, Microsoft Defender, SIEM, MITRE ATT&CK, CloudTrail
-• IAM: AWS IAM, Azure Entra ID, Okta, CyberArk PAM, Zscaler, Zero Trust, RBAC, MFA, SSO
-• Windows & Linux Administration: Linux (RHEL), AWS EC2, Active Directory, Group Policy, Patch Managemen
-
 ---
 
 ## 🧾 Certifications
