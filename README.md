@@ -2,7 +2,25 @@
 
 ## 🔐 About Me
 
-Results-driven Information Security professional with 16 years of experience in cybersecurity frameworks, including RMF, NIST SP 800-53/800-171/800-218, DevSecOps, Cloud Security, Security Compliance, Generative AI, and Vulnerability Management. Holds certifications aligned with DoD 8570 IAT/IAM Level III and IASAE Level II. Skilled in identifying vulnerabilities, recommending mitigation, and implementing enterprise-grade security solutions to protect digital assets. Tracks effective communication of cybersecurity risks to stakeholders, promoting security awareness and collaboration.
+My background spans IT infrastructure, cloud, and security, with current focus on cloud security engineering, IAM, vulnerability management, DevSecOps, and AI/ML security across government and enterprise environments.
+
+Commercial practice: monthly security retainers for funded technology companies. AWS security posture, vulnerability management, IAM governance, cloud monitoring, and AI/ML security assessment.. 
+ 
+Day-to-day tooling: Tenable and Qualys for VMs with CISA KEV correlation. Splunk for continuous monitoring against NIST 800-53 and FedRAMP. AWS Security Hub, GuardDuty, Config, and CloudTrail for cloud posture. CrowdStrike and Microsoft Defender for threat detection. Jenkins and GitHub Actions with SonarQube for CI/CD security. AWS IAM and Microsoft Entra ID for identity governance.
+
+A growing part of my work involves AI platform security: data exfiltration vectors, model security, API exposure, and the movement of sensitive data through AI/ML platforms.
+ 
+Blockchain and Web3 security is where I invest time outside client work. Smart contract analysis, threat modeling, and trust assumption evaluation. Building Web3-specific depth to complement my existing background.
+
+CORE SKILLS:
+
+• Cloud Security: AWS Security Hub, GuardDuty, NIST 800-53, FedRAMP, IRS 1075, FISMA, DoD 8570, CMMC
+• Vulnerability Management: Tenable, Qualys, Nessus, AWS Inspector, Prisma Cloud, DISA STIGs, CISA KEV, CVSS
+• DevSecOps: Jenkins, GitHub Actions, SonarQube, OWASP ZAP, Snyk, SAST/DAST
+• Blockchain & Web3 Security: Solidity, Hardhat, Foundry, Slither, Mythril, Smart Contract Analysis
+• Monitoring & Threat Detection: Splunk, CrowdStrike, Microsoft Defender, SIEM, MITRE ATT&CK, CloudTrail
+• IAM: AWS IAM, Azure Entra ID, Okta, CyberArk PAM, Zscaler, Zero Trust, RBAC, MFA, SSO
+• Windows & Linux Administration: Linux (RHEL), AWS EC2, Active Directory, Group Policy, Patch Managemen
 
 ---
 
