@@ -24,6 +24,9 @@ Results-driven Information Security professional with 16 years of experience in 
 
 ### 👨‍💻 Cybersecurity Projects
 
+- Security engineering case study of an AI-assisted SaaS application covering deployment architecture, AppSec, AI/LLM security, privacy, validation, and production-readiness gating. Includes the live ContactIQ demo, before/after architecture, implemented controls, and documented limitations.  
+  **[ContactIQ Security Engineering Case Study](https://github.com/stefanjames/contactiq-security-case-study)**
+
 - Delivered a full-scope assessment of an AWS environment using NIST 800-53 and CJIS/IRS Pub 1075 frameworks. Includes checklist, findings report, and remediation roadmap. All client information redacted for privacy.  
   **[Cloud Security Assessment Checklist & Report](https://github.com/stefanjames/aws-cloud-security-assessment)**
 
